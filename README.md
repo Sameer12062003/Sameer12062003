@@ -29,7 +29,7 @@ GitHub: Sameer12062003
 LinkedIn: www.linkedin.com/in/sameer-srivastava-29633b21a
 Let's learn, grow, and build the future of AI together! 🚀
 
-Feel free to customize this template with your own experiences, achievements, and projects. Highlight what makes you unique as an AI/ML enthusiast, and remember to keep it friendly, informative, and engaging! Good luck with your GitHub profile!
+
 
 
 
