@@ -25,6 +25,7 @@ Let's Connect
 I'm always excited to connect with fellow AI/ML enthusiasts, researchers, and developers. If you share similar interests or just want to chat about AI, feel free to reach out to me through the following channels:
 
 GitHub: Sameer12062003
+
 LinkedIn: www.linkedin.com/in/sameer-srivastava-29633b21a
 Let's learn, grow, and build the future of AI together! 🚀
 
