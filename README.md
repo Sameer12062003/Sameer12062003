@@ -14,8 +14,12 @@ I'm well-versed in a variety of AI/ML tools and technologies, including but not 
 	3.Natural Language Processing (NLP)
 	4.Computer Vision (OpenCV, Dlib)
 	5.Data visualization (Matplotlib, Seaborn)
+PROJECT LINKS:
+1.https://github.com/Sameer12062003/Omniscient.ai.git
+
 
 FUTURE GOALS:
+
 The world of AI/ML is a never-ending journey, and I have some exciting future goals:
 
 🏆 Participate in GOOGLE-KICKSTART competitions to challenge myself and learn from the best in the field.
