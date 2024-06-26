@@ -14,6 +14,8 @@ I'm well-versed in a variety of AI/ML tools and technologies, including but not 
 	3.Natural Language Processing (NLP)
 	4.Computer Vision (OpenCV, Dlib)
 	5.Data visualization (Matplotlib, Seaborn)
+ 	6.Large Language Models(LLMs) (llama3 , nomic-embed-text , gpt3.5 turbo , stable-diffusion)
+  
 PROJECT LINKS:
 1.https://github.com/Sameer12062003/Omniscient.ai.git
 
@@ -30,7 +32,7 @@ I'm always excited to connect with fellow AI/ML enthusiasts, researchers, and de
 
 GitHub: Sameer12062003
 
-LinkedIn: www.linkedin.com/in/sameer-srivastava-29633b21a
+LinkedIn: www.linkedin.com/in/sameer-srivastava12
 Let's learn, grow, and build the future of AI together! 🚀
 
 
