@@ -41,7 +41,7 @@ I'm always excited to connect with fellow AI/ML enthusiasts, researchers, and de
 
 GitHub: Sameer12062003
 
-LinkedIn: www.linkedin.com/in/sameer-srivastava12
+LinkedIn: [www.linkedin.com/in/sameer-srivastava12](https://www.linkedin.com/in/sameer1206/)
 Let's learn, grow, and build the future of AI together! 🚀
 
 
