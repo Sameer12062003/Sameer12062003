@@ -1,5 +1,5 @@
 WELCOME TO SAMEER12062003 PROFILE:
-- 👋 Hi, I’m @Sameer12062003,and I'm passionate about all things Artificial Intelligence and Machine Learning. I'm an AI/ML enthusiast, constantly exploring new technologies, algorithms, and applications in the field. My journey into the world of AI started [mention your journey briefly]. From there, I've been on a thrilling quest to expand my knowledge and skills in this rapidly evolving domain.
+- 👋 Hi, I’m @Sameer12062003,and I'm passionate about all things Artificial Intelligence and Machine Learning. I'm an AI/ML enthusiast, constantly exploring new technologies, algorithms, and applications in the field. My journey into the world of AI started from the 1st year of my college i.e.2021 with learning basic Machine Learning Algorithms and what is machine learning , from there its been a really interesting journey in which I've learnt many different algorithms and use cases. From there, I've been on a thrilling quest to expand my knowledge and skills in this rapidly evolving domain.
 
 WHAT I DO?
 - 🤖 I enjoy building and training AI models to solve real-world problems. From classic algorithms to deep learning architectures, I'm always eager to experiment with new techniques and frameworks.
@@ -15,6 +15,15 @@ I'm well-versed in a variety of AI/ML tools and technologies, including but not 
 	4.Computer Vision (OpenCV, Dlib)
 	5.Data visualization (Matplotlib, Seaborn)
  	6.Large Language Models(LLMs) (llama3 , nomic-embed-text , gpt3.5 turbo , stable-diffusion)
+
+I'm well-versed in a variety of Data Science and Data Analytics tools and technologies, including but not limited to:
+
+	1.Data Extraction : Selenium , ScraPy, bs4
+	2.Data Preprocessing : NumPy
+	3.Data Manipulation : Pandas 
+ 	4.Data Visualization : Matplotlib & Seaborn
+  	5.Data Analysis : ML algorithms
+
   
 PROJECT LINKS:
 1.https://github.com/Sameer12062003/Omniscient.ai.git
